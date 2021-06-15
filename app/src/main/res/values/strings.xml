@@ -1,0 +1,137 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyStoryApp</string>
+    <string-array name="title_story">
+        <item>An Old Man Lived in the Village</item>
+        <item>The Wise Man</item>
+        <item>The Foolish Donkey</item>
+        <item>The Letter</item>
+        <item>Best Seller</item>
+        <item>The Tortoise and Rabbit</item>
+        <item>The Monkey and the Crocodile</item>
+        <item>Vikram and Betal</item>
+        <item>Birbal’s Khichadi</item>
+        <item>The Pot of Wit</item>
+        <item>The Hens of the Roaster</item>
+        <item>Gold Coin and Justice</item>
+        <item>Who’s Mango Tree is It?</item>
+        <item>The Taming of shrew</item>
+        <item>The Merchant of Venice</item>
+
+
+    </string-array>
+    <string-array name="detail_story">
+        <item>An old man lived in the village. He was one of the most unfortunate people in the world. The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood.
+        The longer he lived, the more bile he was becoming and the more poisonous were his words. People avoided him, because his misfortune became contagious. It was even unnatural and insulting to be happy next to him.
+
+
+He created the feeling of unhappiness in others.
+
+But one day, when he turned eighty years old, an incredible thing happened. Instantly everyone started hearing the rumour:
+            The whole village gathered together. The old man was asked:
+        </item>
+        <item>People have been coming to the wise man, complaining about the same problems every time. One day he told them a joke and everyone roared in laughter.
+
+After a couple of minutes, he told them the same joke and only a few of them smiled.
+
+When he told the same joke for the third time no one laughed anymore.
+
+The wise man smiled and said:
+            Moral of the story:
+Worrying won’t solve your problems, it’ll just waste your time and energy.
+        </item>
+        <item>A salt seller used to carry the salt bag on his donkey to the market every day.
+
+On the way they had to cross a stream.
+
+One day the donkey suddenly tumbled down the stream and the salt bag also fell into the water.
+
+The salt dissolved in the water and hence the bag became very light to carry. The donkey was happy.
+
+Then the donkey started to play the same trick every day. The salt seller came to understand the trick and decided to teach a lesson to it.
+
+The next day he loaded a cotton bag on the donkey. Again it played the same trick hoping that the cotton bag would be still become lighter.
+
+But the dampened cotton became very heavy to carry and it suffered much.
+
+It learnt a lesson. Afterwards it did not play the trick and the seller was happy.
+</item>
+        <item>Ali had been a brilliant hunter who derived pleasure from the terrorized faces of the young ones of the dying birds. After his daughter’s marriage, he was left alone. His daughter, Miriam left home with her husband, a soldier in a regiment in Punjab. Having understood the meaning of love and separation, he could no longer enjoy hunting.
+
+Since then, he had been regularly visiting the post office in the early morning, expecting a letter from his daughter Miriam. However, it never came and he would return back disappointed. The post office staff often made fun of him. The clerk even called out his name jokingly even there was no letter for him. Suddenly, for several days, Ali did not come to the post office. Everyone was curious to know the reason behind this.
+At last, he did come. But now it was difficult for him even to breathe and there were clear signs of his nearing death. Finally, he met the postmaster and asked him for Miriam’s letter. The post master scolded Ali because he was very busy. Consequently, Ali called a clerk and gave him five golden coins and asked him to deliver his letter, if it would come, to his grave. Then he slowly left and was not seen after that day.
+One day, the post master’s daughter fell ill and he was anxious to hear from her. He searched for the letter from his daughter in the pile of letters and picked up a letter, the kind he expected. It was addressed to “Coachman Ali”. Now he realized his mistake. He called Lakshmi Das, a clerk and asked him to find out Ali. That day he did not receive his letter and decided that he would hand over Ali’s letter himself.
+In the post office, the next morning he opened the door and saw Ali leaning on a stick with tears in his eyes. His eyes had a light so unearthly that the postmaster got scared. But, suddenly he disappeared. Lakshmi Das, the clerk was shocked to hear the postmaster call out the name of Coachman Ali who had now been dead for three months. The letter was found near the door. Lakshmi Das tells him about his last meeting with Ali to convince him.
+That evening both of them went to place the letter on Ali‘s grave. The post master repented for his attitude and thought that he should have been more sympathetic and helpful towards Ali. He was no longer ill-tempered.
+</item>
+        <item>
+        The story is set in a typical American background with the twists and turns associated with an O. Henry story. It traces the life of a travelling salesman John Pescud, who believes that bestselling romances are the product of an over-imaginative mind. He finds the stories impossible to believe and feels that they are far removed from real life. He finds it hard to digest that an American man from Chicago would feel so deeply about a girl as to follow her to a remote European country with an unpronounceable name and fight half a dozen soldiers to win her hand in marriage.
+
+Ironically, when he recounts the story of his own marriage to his travelling companion, the reader is exposed to events that are as extraordinary as a best seller. He meets his wife for the first time in a train and follows her as she changes train after train, travelling all the way from Pittsburgh to Virginia only because he falls in love with her. He stays in a local hotel, finds out all about her background and then approaches her to inform her of his intentions of marrying her. Then, he proceeds to meet her father, informs him about his background and his intentions of marrying his daughter, charms him with his stories, and finally gets his permission to marry his daughter.
+    </item>
+        <item>
+    One day a rabbit was boasting about how fast he could run. He was laughing at the turtle for being so slow. Much to the rabbit’s surprise,
+    the turtle challenged him to a race. The rabbit thought this was a good joke and accepted the challenge. The fox was to be the umpire of the race.
+    As the race began, the rabbit raced way ahead of the turtle, just like everyone thought.The rabbit got to the halfway point and could not see the
+    turtle anywhere. He was hot and tired and decided to stop and take a short nap. Even if the turtle passed him, he would be able to race to the
+    finish line ahead of him. All this time the turtle kept walking step by step by step. He never quit no matter how hot or tired he got. He just kept going.
+        However, the rabbit slept longer than he had thought and woke up. He could not see the turtle anywhere! He went at full speed to the finish line but found the turtle there waiting for him.
+</item>
+
+        <item>
+        The Monkey and the Crocodile Summary will take us through the poetic version of the children’s tale which has the same name.
+        It is about a crocodile who lives in a river. He becomes friends with a monkey that lives on a tree on the river bank. Consequently,
+        the monkey shares the fruits of the tree with his friend, the crocodile. Further, the crocodile takes a share for his wife. However,
+        he has a greedy wife is not after the sweetness of the fruit but that of the monkey’s heart. She convinces the crocodile to bring the monkey home,
+        which he does. But he decides not to betray his friend and tells him the truth.Thus, the monkey saves himself by making a clever excuse and ends
+        his friendship with the crocodile. Thus, we see how the crocodile lost a friend as well as the sweet fruits
+    </item>
+        <item>
+            King Vikramaditya was a great ruler. Each day, a man brought a fruit as a gift for him. One day Vikram dropped the fruit and a Vikram and Betaldiamond fell out. Vikram thanked the man and asked him, what he wanted in return. He asked Vikram to bring Betal, a ghost hanging from a tree in the graveyard.
+
+Brave Vikram went to the graveyard and pulled Betal down on to his shoulder. As he started walking back, Betal said, "I will tell you a story and then ask a question. You must tell me the answer otherwise I will break you head. But if you speak I will fly back to the tree." Vikram agreed.
+
+This was the start of a series of stories Betal told Vikram, but each time Betal asked Vikram a question, Vikram answered and clever Betal flew back to the tree.
+        </item>
+
+        <item>
+            on a cold winter day, Akbar and Birbal were walking by a lake.
+            Akbar stopped and put his finger into the freezing water and immediately took it out saying,
+            “I don’t think anyone can sustain a night in this cold water”. Birbal took that as a challenge and said that he would
+            find someone who can do it. Akbar promised a sum of 1000 gold coins to whoever could spend a night standing in the cold
+            water of the lake. Soon, Birbal found a poor man who agreed to undertake the challenge for the 1000 gold coins. Guarded
+            by two royal guards, the poor man spent the entire night standing in the freezing water. In the morning, the poor man was
+            taken to court for the reward. On being asked by the king how he could stand in freezing water, the man replied, “My lord, I
+            kept looking at a lamp that was burning at a distance, and spent my entire night looking at it”. On learning this, the emperor said,
+            “This man is not worthy of the reward as he could manage to stand in the lake because he was getting warmth from the lamp”.
+            The poor man felt doomed and heart-broken. He reached out to Birbal for help. Birbal didn’t go to the court the next day. A
+            kbar visited Birbal to find the reason. To his amusement, the King found Birbal sitting beside the fire with a pot hanging
+            almost 6 feet above it. On being enquired, Birbal said, “I am cooking khichadi, my lord”. Akbar started laughing and said that was impossible.
+            Birbal said, “It is possible my King. If a poor man can stay warm by simply looking at the lamp burning at a distance, I can cook this khichadi
+            the same way.” Akbar understood Birbal’s point and rewarded the poor man for completing the challenge.
+        </item>
+        <item>
+            Once upon a time, king Akbar got so mad at Birbal that he told Birbal to leave the kingdom and go away.
+            Heartbroken, Birbal left the kingdom and took refuge at a farmer’s house in a nearby village.
+            Birbal spent his days working at the farm. As time passed, King Akbar started missing his favourite courtier.
+            One day, Akbar decided to send across his royal guards to find Birbal.
+            The guards looked for Birbal in all directions, but all their efforts went to waste. Akbar thought of a trick to find Birbal –
+            he made an announcement that whoever got him a pot full of wit would be given a pot filled with diamonds. The news reached all the nearby villages,
+            and to Birbal as well. The villagers held a meeting to decide how to solve the king’s mystery. Birbal offered to help, stating that he needs a month’s time.
+            Birbal took a pot and put a small watermelon in it without cutting it from its vines. After a month, the watermelon grew up to the size of the pot. T
+            his pot was sent to the King,
+            and he was told that the wit should only be removed without breaking the pot.
+
+            Akbar knew that this could be no one else but Birbal, and he went to bring Birbal back to his court.
+        </item>
+        <item>
+            Once King Akbar thought of playing a trick on his favourite minister, Birbal. He confided in all other ministers and shared his plan with them. As per the plan, all the ministers had to carry an egg each the following day, hidden inside their robes. The next day, Akbar told his courtiers that he had a dream – according to it, if the ministers fetch an egg each from the royal pond, it will prove their loyalty towards him. After narrating his dream, Akbar asked all his ministers to do the same and show him their loyalty. As planned, all the ministers pretended to look for the eggs, and within no time all of them returned an egg each that was already hidden inside their robes. Birbal kept looking for the egg, but couldn’t find any. When Birbal reached empty-handed, everyone sneered at him, and they were smiling at each other. Birbal could gauge the entire scenario and went up to the king and made the loud rooster-sounds. The King was perplexed and asked Birbal why he did so, upon which Birbal replied, “My King, I am not a hen, and therefore, I could not fetch you any eggs; but I am a rooster, and this is what I can do best”. Listening to this, everyone burst into a hearty laugh.
+        </item>
+        <item>
+            Just like any other day in King Akbar’s court, once Akbar asked Birbal, “My dear Birbal if I tell you to choose between justice and a gold coin, what will you choose?” Without taking long to answer, Birbal replied, “My lord, I will choose a gold coin, without a doubt”. Everyone including king Akbar was aghast at Birbal’s instant reply and thought that this time Birbal had fumbled for once. King Akbar said, “I am very disappointed in you. Why would you choose something of lesser value like a gold coin over something as valuable as justice?” Birbal replied with a grin on his face, “My kind King, there is no dearth of justice because there is justice everywhere in your kingdom. I felt no need to ask something that I have in abundance but my lord, I surely fall short of money, and a gold coin would be nice”. Listening to this reply, Akbar was speechless, but he had a big smile on his face. He felt overjoyed with the reply and rewarded Birbal with 100 gold coins.
+        </item>
+        <item>
+            Once, two brothers, Ram and Sham, were fighting over the ownership of a Mango Tree. Ram said the Mango tree was his; while Sham said he owned it. Unable to find a way out, they decided to ask Birbal for help. Birbal analysed the situation and told the brothers to remove all the mangoes, share them between the two brothers, then cut the tree in two equal halves. Upon hearing Birbal, Ram noded, while Sham pled not to cut the tree for he had nurtured it for three whole years. Birbal found who the real owner of the tree was. He said, “The tree belongs to Sham because the very thought of cutting it down troubled him. Someone who has cared for it for three years won’t cut it down immediately.
+        </item>
+    </string-array>
+
+</resources>
